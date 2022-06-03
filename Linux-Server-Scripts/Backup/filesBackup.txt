@@ -1,0 +1,7 @@
+/etc
+/var/www
+/var/opt
+/opt
+/home/team1
+/home/seif
+/home/peter
